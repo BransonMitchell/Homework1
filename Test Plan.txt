@@ -1,0 +1,10 @@
+Branson Mitchell
+Homework 1 Test Plan
+
+1. I will test to ensure that my program accepts user input and accurately outputs said input.
+2. I will test to make sure that the program checks to make sure there is an upper case letter in the id accurately.
+3. I will test to make sure that the program checks to make sure there is a lower case letter in the id accurately.
+4. I will test to make sure that the program checks to make sure there is a number in the id accurately.
+5. I will test to make sure that the program checks to make sure there is a valid special character in the id accurately.
+6. I will test to make sure that the program checks to make sure that the id meets the minimum length accurately.
+7. I will test to make sure the program outputs to a text file in a readable fashion.
